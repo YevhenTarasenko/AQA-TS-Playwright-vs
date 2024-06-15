@@ -1,0 +1,17 @@
+{
+    "name": "aqa-ts-playwright-vs",
+    "version": "1.0.0",
+    "description": "",
+    "main": "index.js",
+    "scripts": {
+        "test chrome": "playwright test --project chrome"
+    },
+    "keywords": [],
+    "author": "",
+    "license": "ISC",
+    "devDependencies": {
+        "@playwright/test": "^1.44.1",
+        "@types/node": "^20.14.2",
+        "prettier": "3.3.2"
+    }
+}
